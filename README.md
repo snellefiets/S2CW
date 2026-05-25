@@ -1,36 +1,20 @@
-# Spec2Code Workshop — Materialien
+# Spec2Code Workshop — Rail Guide Pets
+
+Ein Coding Dojo: Vom Anforderungsdokument zum lauffähigen Code — mit KI als Co-Pilot.
+
+**Projekt:** Die Express Transport GmbH sucht ein webbasiertes Buchungstool für ihren neuen Begleitservice für alleinreisende Haustiere im Fernverkehr: **Rail Guide Pets**. Zwei Tierbetreuer begleiten bis zu 15 Haustiere auf ausgewählten Verbindungen. Pilotbetrieb: Freitags und sonntags, Juni bis November 2026.
+
+Das Anforderungsdokument ist die Grundlage des Dojos — alle Tasks im Workshop drehen sich darum.
+
+---
 
 ## Wo finde ich was?
 
-| Datei | Inhalt |
+| Pfad | Inhalt |
 |---|---|
-| [01_Intro.md](./00_TASK/01_Intro.md) | Tagesablauf auf einen Blick — Slots, Tasks, Ziele. Für die Präsentation. |
-| [02_Longtro.md](./00_TASK/02_Longtro.md) | Ausführliche Anleitung für alle drei Tasks — mit Erklärungen, Beispiel-Prompts und Hintergründen. Für die Teilnehmer. |
-| [00_anleitung-vscode-copilot.pdf](./00_TASK/00_anleitung-vscode-copilot.pdf) | Schritt-für-Schritt-Anleitung: VS Code installieren, GitHub Copilot Extension einrichten und mit dem Firmen-GitHub-Account (Sopra Steria) anmelden. Für Einsteiger. |
+| [00_TASK/01_Intro.md](./00_TASK/01_Intro.md) | Tagesablauf auf einen Blick — Slots, Tasks, Ziele |
+| [00_TASK/02_Longtro.md](./00_TASK/02_Longtro.md) | Ausführliche Anleitung für alle drei Tasks mit Erklärungen und Beispiel-Prompts |
+| [00_TASK/00_anleitung-vscode-copilot.pdf](./00_TASK/00_anleitung-vscode-copilot.pdf) | Setup-Anleitung: VS Code + GitHub Copilot einrichten |
+| [00_TASK/01_Ausschreibung/](./00_TASK/01_Ausschreibung/) | Ausschreibungsdokumente (DE + EN) und geplante Züge |
 
-## GitHub Copilot in VS Code einrichten
-
-Kurzübersicht der Einrichtungsschritte (Details im [PDF](./00_TASK/00_anleitung-vscode-copilot.pdf)):
-
-1. **VS Code installieren** — [code.visualstudio.com](https://code.visualstudio.com) → Download → Installation starten
-2. **GitHub Copilot Extension installieren** — Extensions-Icon in der Seitenleiste → `GitHub Copilot` suchen → „Install" klicken
-3. **Mit GitHub anmelden** — Copilot-Icon unten links klicken → „Bei GitHub anmelden" → Firmen-Account (Sopra Steria) verwenden → Zugriff bestätigen
-
-**Copilot benutzen:**
-
-| Funktion | Aktion |
-|---|---|
-| Chat (Fragen stellen) | Chat-Icon in der Seitenleiste oder `Strg+Alt+I` (Win) / `Ctrl+Cmd+I` (Mac) |
-| Automatische Vorschläge | Einfach tippen — grau hinterlegte Vorschläge erscheinen automatisch |
-| Vorschlag übernehmen | `Tab` |
-| Vorschlag ablehnen | `Esc` |
-
-**Häufige Probleme:**
-
-| Problem | Lösung |
-|---|---|
-| Copilot-Icon hat ein rotes X | Nicht angemeldet → Schritt 3 wiederholen |
-| Keine Vorschläge beim Tippen | Unten rechts prüfen, ob Copilot aktiv ist (kein X) |
-| Anmeldung schlägt fehl | Prüfen, ob der richtige GitHub-Account (Firmen-Account) verwendet wird |
-| Extension nicht gefunden | Suchbegriff prüfen: genau `GitHub Copilot` eingeben |
 
