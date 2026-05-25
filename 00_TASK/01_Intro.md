@@ -76,6 +76,8 @@ ProTipp: Subagents :D.
 
 **Ziel:** Mit KI Pingpong herausfinden, wie sich Technik und Architektur sauber dokumentieren lassen — und was die KI braucht, um damit gut arbeiten zu können.
 
+> 💡 **Kernidee:** Schaut euch den Clarify-Skill an — nicht um ihn zu kopieren, sondern um die **Idee dahinter** zu verstehen und für Architektur zweckzuentfremden. Mehr dazu im [Longtro](02_Longtro.md).
+
 1. **Technische Anforderungen** – Im KI Pingpong herausarbeiten: Was brauchen wir technisch, um die Requirements umzusetzen?
 2. **Grobe Architektur** – Wie könnte eine Architektur aussehen? Bewusst grob halten.
 3. **Darstellungsform finden** – Welches Format liest die KI am besten? Architekturdiagramm, Textbeschreibung, strukturiertes Markdown? Ausprobieren.

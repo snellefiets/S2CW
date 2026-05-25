@@ -127,6 +127,23 @@ SpecKit kennt zwei zentrale Operationen, die für euch als Referenz dienen:
 
 **Ziel:** Mit KI Pingpong herausfinden, wie sich Technik und Architektur sauber dokumentieren lassen — und was die KI braucht, um damit gut arbeiten zu können.
 
+#### Die Kernidee: Ideen kopieren, nicht Skills
+
+Schaut euch den SpecKit Clarify-Skill an: [`skills/speckit-commands/speckit.clarify.md`](skills/speckit-commands/speckit.clarify.md)
+
+Was macht der? Er nimmt eine Spec, sucht gezielt nach Lücken und Unklarheiten, und stellt maximal fünf gezielte Rückfragen — bis die Spec vollständig ist.
+
+Jetzt die entscheidende Frage: **Was wäre, wenn man dasselbe für Architektur macht?**
+
+Nicht den Skill kopieren. Die **Idee** dahinter kopieren und zweckentfremden:
+- Clarify fragt: *„Was ist in dieser Feature-Spec noch unklar?"*
+- Euer Architektur-Skill fragt: *„Was ist in dieser Architektur-Beschreibung noch unklar?"*
+
+Das Prinzip ist identisch — der Anwendungsfall ist ein völlig anderer. Genau darum geht es in Task 2 auf Technikseite: erkennen, dass ein gutes Konzept portierbar ist, und es für den eigenen Zweck neu bauen. Mit KI Pingpong.
+
+Startet so:
+> *„Schau dir diesen Clarify-Skill an. Was ist die Kernidee dahinter? Wie könnten wir dasselbe Prinzip nutzen, um Architektur-Dokumente zu hinterfragen?"*
+
 #### Vorgehen
 
 1. **Technische Anforderungen ableiten** — Schaut euch die High Level Requirements an und fragt gemeinsam mit der KI: Was brauchen wir technisch, um das umzusetzen? Welche Systeme, Schnittstellen, Datenhaltung? KI Pingpong: grob rein, verfeinern, nochmal.
