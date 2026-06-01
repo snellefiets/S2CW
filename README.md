@@ -16,5 +16,6 @@ Das Anforderungsdokument ist die Grundlage des Dojos — alle Tasks im Workshop 
 | [00_TASK/02_Longtro.md](./00_TASK/02_Longtro.md) | Ausführliche Anleitung für alle drei Tasks mit Erklärungen und Beispiel-Prompts |
 | [00_TASK/00_anleitung-vscode-copilot.pdf](./00_TASK/00_anleitung-vscode-copilot.pdf) | Setup-Anleitung: VS Code + GitHub Copilot einrichten |
 | [00_TASK/01_Ausschreibung/](./00_TASK/01_Ausschreibung/) | Ausschreibungsdokumente (DE + EN) und geplante Züge |
-
-
+| [00_TASK/00_KI_PingPong.md](./00_TASK/00_KI_PingPong.md) | Was KI Pingpong ist und wie es funktioniert |
+| [00_TASK/skills/speckit-commands/](./00_TASK/skills/speckit-commands/) | Die SpecKit Skills (Specify, Clarify, Plan, …) als Referenz und Vorlage |
+| [00_TASK/tipps.md](./00_TASK/tipps.md) | Praktische Tipps (z. B. Filepath kopieren in VS Code) |
