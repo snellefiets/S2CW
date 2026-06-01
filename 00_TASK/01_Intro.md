@@ -11,6 +11,9 @@
 - Support Session: Alle richten ihre lokale Umgebung ein
 - Wer fertig ist, hilft den Nachbarn
 
+**Wichtig: Es gibt eine Langbeschreibung!!!**
+- [Longtro](02_Longtro.md).
+
 ---
 
 ## Slot 2 – Intro: Was machen wir heute?
