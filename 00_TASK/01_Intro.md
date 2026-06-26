@@ -46,6 +46,8 @@
 
 ### Task 1 – High Level & Detail Requirements (KI Pingpong)
 
+Mehr Info nötig? Check das [Longtro](02_Longtro.md).
+
 **Ziel:** Mit KI Pingpong die zwei Skills schreiben — einen für High Level Requirements, einen für Detail Requirements.
 
 In Teams: mit KI Pingpong gemeinsam herausarbeiten, was die Software tut.
@@ -61,6 +63,8 @@ ProTipp: Subagents :D.
 ---
 
 ### Task 2 – Module & Architektur
+
+Mehr Info nötig? Check das [Longtro](02_Longtro.md).
 
 **Ziel:** Die SpecKit Skills als Referenz nehmen und mit KI Pingpong einen eigenen, abgespeckten Skill für den konkreten Use Case definieren — nach deren Vorbild, aber im Kleinen.
 
@@ -93,6 +97,8 @@ ProTipp: Subagents :D.
 ---
 
 ### Task 3 – Scoping via CLAUDE.md / Copilot Instructions
+
+Mehr Info nötig? Check das [Longtro](02_Longtro.md).
 
 **Ziel:** Den MVP-Scope festschreiben — so dass die KI ihn ab jetzt immer kennt, egal was man fragt.
 
